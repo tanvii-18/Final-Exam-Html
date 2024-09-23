@@ -1,0 +1,104 @@
+*
+{
+	margin:0%;
+	padding:0%;
+	box-sizing:border-box;
+}
+.box
+{
+	height:10vh;
+	width:100%;
+	background-color:#000000;
+}
+h3
+{
+    color:white;
+	font-family:arial;
+	font-size:30px;
+	font-weight:normal;
+	position:relative;
+	top:30%;
+	left:8%;
+}
+p
+{
+	color:white;
+	font-family:arial;
+	font-size:30px;
+	word-spacing:30px;
+	position:absolute;
+	right:8%;
+}
+.whiteline
+{
+	height:2px;
+	width:100%;
+}
+.bacg
+{
+	height:90vh;
+	width:100%;
+	background-color: #d7d7d7;
+	background-image: linear-gradient(360deg, #000000, #000000b6, #353535 74%);
+
+}
+.circle
+{
+	height:900px;
+	width:950px;
+	border-radius:50%;
+	background-color: #F0DE36;
+	position:relative;
+	top:1%;
+	left:25%;
+}
+.box2
+{
+	height:29vh;
+	width:100%;
+	background-color: #2b99cc;
+	position:absolute;
+	top:80%;	
+}
+.bus
+{
+	position:absolute;
+	bottom:50%;
+	left:33%;
+}
+.circle p
+{
+	color:#010d4f;
+	word-spacing:8px;
+	position:absolute;
+	left:35%;
+	top:15%;
+	font-size:25px;
+	font-family:arial;
+	font-weight:500;
+}
+h1
+{ 
+	 font-family: 'Summer Festival';
+    src: url('SummerFestival.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    position:absolute;
+	color: #2b99cc;
+	left:25%;
+	top:20%;
+	font-size:80px;
+}
+input
+{
+	height:60px;
+	width:150px;
+	border-radius:10px;
+	border:none;
+	background-color:#010d4f;
+	 position:absolute;
+	left:42%;
+	top:35%;
+	color:#ffffff;
+	font-size:22px;
+}
